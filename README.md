@@ -1,1 +1,3 @@
-# Gamified-Energy-Monitoring-and-Optimization-System-for-Households
+#Genesys - Hackathon 
+
+Gamified-Energy-Monitoring-and-Optimization-System-for-Households
